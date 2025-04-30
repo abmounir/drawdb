@@ -25,7 +25,7 @@
     "framer-motion": "^10.18.0",
     "html-to-image": "^1.11.11",
     "jsonschema": "^1.4.1",
-    "jspdf": "^2.5.1",
+    "jspdf": "^3.0.1",
     "lexical": "^0.12.5",
     "node-sql-parser": "^5.0.0",
     "react": "^18.2.0",
